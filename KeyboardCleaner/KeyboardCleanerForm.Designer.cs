@@ -1,4 +1,4 @@
-﻿namespace KeyboardCleaner {
+namespace KeyboardCleaner {
     partial class KeyboardCleaner {
         /// <summary>
         /// Required designer variable.
@@ -27,9 +27,9 @@
             this.UnlockInstructionsLabel = new System.Windows.Forms.Label();
             this.LockLabel = new System.Windows.Forms.Label();
             this.SuspendLayout();
-            // 
+            //
             // MessageLabel
-            // 
+            //
             this.MessageLabel.Dock = System.Windows.Forms.DockStyle.Fill;
             this.MessageLabel.Font = new System.Drawing.Font("Times New Roman", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.MessageLabel.ForeColor = System.Drawing.Color.White;
@@ -39,9 +39,9 @@
             this.MessageLabel.TabIndex = 0;
             this.MessageLabel.Text = "Keyboard Cleaner Activated!";
             this.MessageLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
+            //
             // UnlockInstructionsLabel
-            // 
+            //
             this.UnlockInstructionsLabel.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.UnlockInstructionsLabel.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.UnlockInstructionsLabel.ForeColor = System.Drawing.Color.White;
@@ -51,9 +51,9 @@
             this.UnlockInstructionsLabel.TabIndex = 1;
             this.UnlockInstructionsLabel.Text = "Hold Right Click For 1 Second And Release To Unlock";
             this.UnlockInstructionsLabel.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            // 
+            //
             // LockLabel
-            // 
+            //
             this.LockLabel.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.LockLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LockLabel.ForeColor = System.Drawing.Color.White;
@@ -64,9 +64,9 @@
             this.LockLabel.TabIndex = 2;
             this.LockLabel.Text = "🔒";
             this.LockLabel.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            // 
+            //
             // KeyboardCleaner
-            // 
+            //
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
